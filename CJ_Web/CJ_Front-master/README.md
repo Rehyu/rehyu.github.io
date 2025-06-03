@@ -1,1 +1,0 @@
-lib에 main.dart를 보세요
